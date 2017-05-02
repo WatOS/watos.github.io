@@ -1,2 +1,2 @@
 # watos.github.io
-The WatOS website
+A redirect to the WatOS docs. Public domain.
